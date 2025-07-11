@@ -12,11 +12,6 @@ As soluções estão organizadas por dificuldade e linguagem de programação:
 ├── medium
 ├── hard
 
-Dentro de cada nível de dificuldade, as soluções são organizadas por linguagem:
-
-- `python/`: Soluções em Python 🐍
-- `java/`: Soluções em Java ☕
-
 ## ✅ Progresso
 
 | Dificuldade | Resolvidos |
