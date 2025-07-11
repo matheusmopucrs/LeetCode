@@ -8,14 +8,9 @@ As soluções estão organizadas por dificuldade e linguagem de programação:
 
 --- LeetCode-Resolutions ---
 
-├── easy
-├── medium
-├── hard
-
-Dentro de cada nível de dificuldade, as soluções são organizadas por linguagem:
-
-- `python/`: Soluções em Python 🐍
-- `java/`: Soluções em Java ☕
+├── Easy
+├── Medium
+├── Hard
 
 ## ✅ Progresso
 
