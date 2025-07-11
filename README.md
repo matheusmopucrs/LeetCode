@@ -8,9 +8,9 @@ As soluções estão organizadas por dificuldade e linguagem de programação:
 
 --- LeetCode-Resolutions ---
 
-├── easy
-├── medium
-├── hard
+├── Easy
+├── Medium
+├── Hard
 
 ## ✅ Progresso
 
